@@ -5,8 +5,8 @@ btnWacha.addEventListener("click", () => {
 
     if (input.value != "") {
 
-        if (input.value == "María Margarita Celeste") {
-            document.location.href = './2.html'
+        if (input.value == "Maria Margarita Celeste") {
+            document.location.href = './vd.html'
 
         } else {
             alert("Fuera de aqui sapo")
